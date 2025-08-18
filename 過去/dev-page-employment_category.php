@@ -1,0 +1,1270 @@
+<?php get_header(); ?>
+<!--　content　▼▼-->
+
+<h1 id="title_2f"><img src="<?php echo get_template_directory_uri(); ?>/images/employment_title.jpg" alt="採用情報"></h1>
+<div class="sub_nav">
+		<ul class="cf import">
+				<li><a href="<?php bloginfo('url'); ?>/employment_category">募集職種一覧</a></li>
+				<li><a href="<?php bloginfo('url'); ?>/employment_voice">社員の声</a></li>
+		</ul>
+</div>
+
+
+
+
+<div class="wrap_w">
+	<h2 id="type02" style="margin-bottom: -40px;">
+			<p>私たちのこと</p>
+		</h2>
+	<div class="skd_flow_con" style="text-align: center; background-color: #DCDCDC;">
+        
+        私たちは流通に特化したシステムの提案・開発・運営を行っております。<br>
+"地域密着型"で地域の小売店舗様・卸売業者様・生産者様を支援します。<br><br>
+
+元々流通業界の受発注処理は通信手段が複数あるため、とても面倒なものでした。<br>
+それを送信側の通信手段を変更せずとも、受信側で一元管理できるシステムを提供しているのが当社です。<br>
+受発注システムの中でも自動発注システム、また、入荷用受発注システムだけではなく在庫管理システムやクリスマスケーキといった季節ものの予約システム等、<br>多岐に渡るサービスラインナップで流通業界の企業様の業務効率化のお手伝いをしています。
+<br><br>
+地域のお店は私たちの生活の基盤です。<br>
+お店に目当ての商品がなかったらどうでしょう？がっかりしませんか？<br>
+ひむか流通ネットワークは、お肉もお野菜もお菓子もコンスタントに店頭に並ぶよう自社開発システムでサポートする会社です。<br>
+便利で街の人たちに愛されるお店づくりをお手伝いすることで、地域の活性化の一端を担うべく邁進しています。<br>
+店舗のIoT化も進化が著しく、この先ますます先進技術の獲得が求められ、社会から期待される世界です。
+        
+<!--【唯一、特化、密着、挑戦…どれかにピンときたら当社に向いています！】<br>
+私たちは、宮崎で＜唯一＞流通に＜特化＞したシステムの提案・開発・運営を行う、地元＜密着＞で、常に＜挑戦＞を続けている会社です。<br><br>
+
+元々流通業界の受発注処理は通信手段が複数あるため、とても面倒なものでした。<br>
+それを送信側の通信手段を変更せずとも、受信側で一元管理できるシステムを提供しているのが当社です。<br>
+宮崎には存在しなかった全く新しいシステムをご利用いただけるかは未知であり、創業はとても大きな挑戦でした。<br>
+結果は、創業以来三十年以上にわたってサービスをご利用ただいており、今では宮崎のみならず、九州一円、さらに北海道にまでお客様を抱えることができています。<br>
+今後はAIの活用を加速させ需要予測やデータ分析に注力し、クライエントの更なる業務効率化を絶えず推進していく計画です。<br>
+		宮崎で唯一無二のITソリューションを展開する当社で、一緒に刺激的な仕事をしてみませんか？<br>-->
+	</div>
+	
+    
+    
+		<div class="container cf" style="margin-top: 30px;">
+				<h2 id="type01">
+						<p>募集要項</p>
+				</h2>
+		</div>
+</div>
+
+
+
+
+
+<!--　★タブ切り替えここから★　-->
+
+
+
+<div class="tabs">
+  <input id="employment01" type="radio" name="tab_item" checked>
+  <label class="tab_item" for="employment01">新卒採用</label>
+
+  <input id="employment02" type="radio" name="tab_item">
+  <label class="tab_item02" for="employment02">中途採用</label>
+
+
+  <div class="tab_content" id="employment01_content">
+      
+      <!--　★募集開始　ここから★　-->
+		  
+	<div class="entry_start">
+	  <p class="entry_start-textA"><span class="dec">2024年卒の新卒採用活動を<br class="br_etc">開始いたしました。</span></p>
+	  <p class="entry_start-textB">この度は、弊社採用ページをご覧いただきありがとうございます。
+          2024年度の新卒採用活動を開始いたしました。
+          皆様からのご応募、心よりお待ちしています。</p>
+	</div>
+
+<!--　★募集開始　ここまで★　-->
+      
+      
+    <div class="tab_content_description">
+      <p class="c-txtsp">
+
+
+<!--　★募集締め切り　ここから★　-->
+		  
+
+
+	<!-- <div class="entry_close">
+	  <p class="entry_close-textA"><span class="dec">2023年度の新卒採用活動を終了いたしました。</span></p>
+	  <p class="entry_close-textB">多くの学生のみなさまに当社にご興味を持って頂けたことを心からお礼申し上げます。
+2024度新卒採用の情報につきましては、詳細が決まり次第ご案内させて頂きます。</p>
+	</div> -->
+
+
+<!--　★募集締め切り　ここまで★　-->
+
+
+<!--　★職選択　ここから★　-->
+
+<div id="employment_bg">
+		<ul class="cf">
+				<li><a href="#server"><img src="<?php echo get_template_directory_uri(); ?>/images/btn_job01_off.png" alt="サーバ・ネットワークエンジニア職"></a></li>
+				<li><a href="#engineer"><img src="<?php echo get_template_directory_uri(); ?>/images/btn_job02_off.png" alt="システムエンジニア・プログラマー職"></a></li>
+                <li><a href="#op_support"><img src="<?php echo get_template_directory_uri(); ?>/images/btn_job06_off.png" alt="事務・運用・サポート職"></a></li>
+				<li><a href="#web"><img src="<?php echo get_template_directory_uri(); ?>/images/btn_job03_off.png" alt="Web制作職"></a></li>
+				<li><a href="#eigyou"><img src="<?php echo get_template_directory_uri(); ?>/images/btn_job04_off.png" alt="営業職"></a></li>
+				<li><a href="#soumu"><img src="<?php echo get_template_directory_uri(); ?>/images/btn_job05_off.png" alt="総務・人事職"></a></li>
+		</ul>
+
+		<div class="skd_flow_title">
+		   <a href="#step">選考スケジュールはこちら</a>
+		</div>
+</div>
+<!--　★職選択　ここまで★　-->
+
+
+
+<!-- ★【新卒】サーバ・ネットワークエンジニア職　ここから★ -->
+   <div class="saiyou_con">
+	<p id="server"></p>
+	 <div class="saiyou_title">
+	  <p>サーバ・ネットワークエンジニア職</p>
+	  <h4 class="saiyou">サーバ・ネットワークエンジニア</h4>
+	   <div class="saiyou_icon_con">
+	    <a href="<?php bloginfo('url'); ?>/contact">
+		<i class="fas fa-envelope saiyou_icon"></i>
+	    </a>
+	   </div>
+	 </div>
+
+	    <?php $args=array( 'tax_query' => array( array(
+		'taxonomy' => 'employment_cat',
+		'field' => 'slug',
+		'terms' => array( 'new_grad_networkengineer' )
+			),),
+		'post_type' => 'employment',
+		'posts_per_page'=> -1
+		); ?>
+		<?php query_posts( $args ); ?>
+		<?php if(have_posts()): ?>
+		<?php while(have_posts()):the_post(); ?>
+		<p>
+		 <?php the_field("text", $post->ID); ?>
+		</p>
+	   <div class="cf">
+		<div class="left w48">
+		   <dl class="employment_dl">
+			<dt>応募条件</dt>
+			<dd>
+				<?php the_field("cond", $post->ID); ?>
+			</dd>
+			<dt>募集学部</dt>
+			<dd>
+				<?php the_field("faculty", $post->ID); ?>
+			</dd>
+			<dt>仕事の内容</dt>
+			<dd>
+				<?php the_field("content", $post->ID); ?>
+			</dd>
+			<dt>求める人材像</dt>
+			<dd>
+				<?php the_field("talent", $post->ID); ?>
+			</dd>
+
+
+		</dl>
+		 </div>
+		<div class="right w48">
+		   <dl class="employment_dl">
+			<dt>勤務形態</dt>
+			<dd>
+			   <?php the_field("work", $post->ID); ?>
+			</dd>
+			<dt>社会保険</dt>
+			<dd>
+			   <?php the_field("hoken", $post->ID); ?>
+			</dd>
+			<dt>必要な資格</dt>
+			<dd>
+			   <?php the_field("certification", $post->ID); ?>
+			</dd>
+			</dl>
+		</div>
+
+
+	   </div>
+		<?php endwhile; else: ?>
+		  <p class="employment_n">現在、募集は受け付けておりません</p>
+		<?php endif; ?>
+		<?php wp_reset_query(); ?>
+	</div>
+
+<!-- ★【新卒】サーバ・ネットワークエンジニア職　ここまで★ -->
+
+
+
+
+
+
+<!-- ★【新卒】システムエンジニア・プログラマー職　ここから★ -->
+        
+        <!--test-->
+        <div class="saiyou_con">
+	<p id="engineer"></p>
+	 <div class="saiyou_title">
+	  <p>システムエンジニア・プログラマー職</p>
+	  <h4 class="saiyou">AI/データサイエンティスト</h4>
+	   <div class="saiyou_icon_con">
+	    <a href="<?php bloginfo('url'); ?>/contact">
+		<i class="fas fa-envelope saiyou_icon"></i>
+	    </a>
+	   </div>
+	 </div>
+
+	    <?php $args=array( 'tax_query' => array( array(
+		'taxonomy' => 'employment_cat',
+		'field' => 'slug',
+		'terms' => array( 'new_grad_datascientist' )
+			),),
+		'post_type' => 'employment',
+		'posts_per_page'=> -1
+		); ?>
+		<?php query_posts( $args ); ?>
+		<?php if(have_posts()): ?>
+		<?php while(have_posts()):the_post(); ?>
+		<p>
+		 <?php the_field("text", $post->ID); ?>
+		</p>
+	   <div class="cf">
+		<div class="left w48">
+		   <dl class="employment_dl">
+			<dt>応募条件</dt>
+			<dd>
+				<?php the_field("cond", $post->ID); ?>
+			</dd>
+			<dt>募集学部</dt>
+			<dd>
+				<?php the_field("faculty", $post->ID); ?>
+			</dd>
+			<dt>仕事の内容</dt>
+			<dd>
+				<?php the_field("content", $post->ID); ?>
+			</dd>
+			<dt>求める人材像</dt>
+			<dd>
+				<?php the_field("talent", $post->ID); ?>
+			</dd>
+
+
+		</dl>
+		 </div>
+		<div class="right w48">
+		   <dl class="employment_dl">
+			<dt>勤務形態</dt>
+			<dd>
+			   <?php the_field("work", $post->ID); ?>
+			</dd>
+			<dt>社会保険</dt>
+			<dd>
+			   <?php the_field("hoken", $post->ID); ?>
+			</dd>
+			<dt>必要な資格</dt>
+			<dd>
+			   <?php the_field("certification", $post->ID); ?>
+			</dd>
+			</dl>
+		</div>
+
+
+	   </div>
+		<?php endwhile; else: ?>
+		  <p class="employment_n">現在、募集は受け付けておりません</p>
+		<?php endif; ?>
+		<?php wp_reset_query(); ?>
+	</div>
+        <!--test-->
+        
+   <div class="saiyou_con">
+	<p id="engineer"></p>
+	 <div class="saiyou_title">
+	  <!--<p>システムエンジニア・プログラマー職</p>-->
+	  <h4 class="saiyou">システムエンジニア </h4>
+	   <div class="saiyou_icon_con">
+	    <a href="<?php bloginfo('url'); ?>/contact">
+		<i class="fas fa-envelope saiyou_icon"></i>
+	    </a>
+	   </div>
+	 </div>
+
+	    <?php $args=array( 'tax_query' => array( array(
+		'taxonomy' => 'employment_cat',
+		'field' => 'slug',
+		'terms' => array( 'new_grad_programmer' )
+			),),
+		'post_type' => 'employment',
+		'posts_per_page'=> -1
+		); ?>
+		<?php query_posts( $args ); ?>
+		<?php if(have_posts()): ?>
+		<?php while(have_posts()):the_post(); ?>
+		<p>
+		 <?php the_field("text", $post->ID); ?>
+		</p>
+	   <div class="cf">
+		<div class="left w48">
+		   <dl class="employment_dl">
+			<dt>応募条件</dt>
+			<dd>
+				<?php the_field("cond", $post->ID); ?>
+			</dd>
+			<dt>募集学部</dt>
+			<dd>
+				<?php the_field("faculty", $post->ID); ?>
+			</dd>
+			<dt>仕事の内容</dt>
+			<dd>
+				<?php the_field("content", $post->ID); ?>
+			</dd>
+			<dt>求める人材像</dt>
+			<dd>
+				<?php the_field("talent", $post->ID); ?>
+			</dd>
+
+
+		</dl>
+		 </div>
+		<div class="right w48">
+		   <dl class="employment_dl">
+			<dt>勤務形態</dt>
+			<dd>
+			   <?php the_field("work", $post->ID); ?>
+			</dd>
+			<dt>社会保険</dt>
+			<dd>
+			   <?php the_field("hoken", $post->ID); ?>
+			</dd>
+			<dt>必要な資格</dt>
+			<dd>
+			   <?php the_field("certification", $post->ID); ?>
+			</dd>
+			</dl>
+		</div>
+
+
+	   </div>
+		<?php endwhile; else: ?>
+		  <p class="employment_n">現在、募集は受け付けておりません</p>
+		<?php endif; ?>
+		<?php wp_reset_query(); ?>
+	</div>
+
+<!-- ★システムプランナー　ここまで★ -->
+
+
+<!-- ★【新卒】事務・運用・サポート職　ここから★ -->
+   <div class="saiyou_con">
+	<p id="op_support"></p>
+	 <div class="saiyou_title">
+	  <p>運用・サポート職</p>
+	  <h4 class="saiyou">運用・サポート</h4>
+	   <div class="saiyou_icon_con">
+	    <a href="<?php bloginfo('url'); ?>/contact">
+		<i class="fas fa-envelope saiyou_icon"></i>
+	    </a>
+	   </div>
+	 </div>
+
+	    <?php $args=array( 'tax_query' => array( array(
+		'taxonomy' => 'employment_cat',
+		'field' => 'slug',
+		'terms' => array( 'newgrad_operation_support_work' )
+			),),
+		'post_type' => 'employment',
+		'posts_per_page'=> -1
+		); ?>
+		<?php query_posts( $args ); ?>
+		<?php if(have_posts()): ?>
+		<?php while(have_posts()):the_post(); ?>
+		<p>
+		 <?php the_field("text", $post->ID); ?>
+		</p>
+	   <div class="cf">
+		<div class="left w48">
+		   <dl class="employment_dl">
+			<dt>応募条件</dt>
+			<dd>
+				<?php the_field("cond", $post->ID); ?>
+			</dd>
+			<dt>募集学部</dt>
+			<dd>
+				<?php the_field("faculty", $post->ID); ?>
+			</dd>
+			<dt>仕事の内容</dt>
+			<dd>
+				<?php the_field("content", $post->ID); ?>
+			</dd>
+			<dt>求める人材像</dt>
+			<dd>
+				<?php the_field("talent", $post->ID); ?>
+			</dd>
+
+
+		</dl>
+		 </div>
+		<div class="right w48">
+		   <dl class="employment_dl">
+			<dt>勤務形態</dt>
+			<dd>
+			   <?php the_field("work", $post->ID); ?>
+			</dd>
+			<dt>社会保険</dt>
+			<dd>
+			   <?php the_field("hoken", $post->ID); ?>
+			</dd>
+			<dt>必要な資格</dt>
+			<dd>
+			   <?php the_field("certification", $post->ID); ?>
+			</dd>
+			</dl>
+		</div>
+
+
+	   </div>
+		<?php endwhile; else: ?>
+		  <p class="employment_n">現在、募集は受け付けておりません</p>
+		<?php endif; ?>
+		<?php wp_reset_query(); ?>
+	</div>
+
+<!-- ★【新卒】事務・運用・サポート職　ここまで★ -->
+
+
+<!-- ★【新卒】Web制作職　ここから★ -->
+   <div class="saiyou_con">
+	<p id="web"></p>
+	 <div class="saiyou_title">
+	  <p>Web制作職</p>
+	  <h4 class="saiyou">Webデザイナー</h4>
+	   <div class="saiyou_icon_con">
+	    <a href="<?php bloginfo('url'); ?>/contact">
+		<i class="fas fa-envelope saiyou_icon"></i>
+	    </a>
+	   </div>
+	 </div>
+
+	    <?php $args=array( 'tax_query' => array( array(
+		'taxonomy' => 'employment_cat',
+		'field' => 'slug',
+		'terms' => array( 'new_grad_web' )
+			),),
+		'post_type' => 'employment',
+		'posts_per_page'=> -1
+		); ?>
+		<?php query_posts( $args ); ?>
+		<?php if(have_posts()): ?>
+		<?php while(have_posts()):the_post(); ?>
+		<p>
+		 <?php the_field("text", $post->ID); ?>
+		</p>
+	   <div class="cf">
+		<div class="left w48">
+		   <dl class="employment_dl">
+			<dt>応募条件</dt>
+			<dd>
+				<?php the_field("cond", $post->ID); ?>
+			</dd>
+			<dt>募集学部</dt>
+			<dd>
+				<?php the_field("faculty", $post->ID); ?>
+			</dd>
+			<dt>仕事の内容</dt>
+			<dd>
+				<?php the_field("content", $post->ID); ?>
+			</dd>
+			<dt>求める人材像</dt>
+			<dd>
+				<?php the_field("talent", $post->ID); ?>
+			</dd>
+
+
+		</dl>
+		 </div>
+		<div class="right w48">
+		   <dl class="employment_dl">
+			<dt>勤務形態</dt>
+			<dd>
+			   <?php the_field("work", $post->ID); ?>
+			</dd>
+			<dt>社会保険</dt>
+			<dd>
+			   <?php the_field("hoken", $post->ID); ?>
+			</dd>
+			<dt>必要な資格</dt>
+			<dd>
+			   <?php the_field("certification", $post->ID); ?>
+			</dd>
+			</dl>
+		</div>
+
+
+	   </div>
+		<?php endwhile; else: ?>
+		  <p class="employment_n">現在、募集は受け付けておりません</p>
+		<?php endif; ?>
+		<?php wp_reset_query(); ?>
+	</div>
+
+<!-- ★【新卒】Web制作職　ここまで★ -->
+
+
+
+
+
+<!-- ★【新卒】営業職　ここから★ -->
+   <div class="saiyou_con">
+	<p id="eigyou"></p>
+	 <div class="saiyou_title">
+	  <p>営業職</p>
+	  <h4 class="saiyou">システムデザイナー</h4>
+	   <div class="saiyou_icon_con">
+	    <a href="<?php bloginfo('url'); ?>/contact">
+		<i class="fas fa-envelope saiyou_icon"></i>
+	    </a>
+	   </div>
+	 </div>
+
+	    <?php $args=array( 'tax_query' => array( array(
+		'taxonomy' => 'employment_cat',
+		'field' => 'slug',
+		'terms' => array( 'new_grad_eigyo' )
+			),),
+		'post_type' => 'employment',
+		'posts_per_page'=> -1
+		); ?>
+		<?php query_posts( $args ); ?>
+		<?php if(have_posts()): ?>
+		<?php while(have_posts()):the_post(); ?>
+		<p>
+		 <?php the_field("text", $post->ID); ?>
+		</p>
+	   <div class="cf">
+		<div class="left w48">
+		   <dl class="employment_dl">
+			<dt>応募条件</dt>
+			<dd>
+				<?php the_field("cond", $post->ID); ?>
+			</dd>
+			<dt>募集学部</dt>
+			<dd>
+				<?php the_field("faculty", $post->ID); ?>
+			</dd>
+			<dt>仕事の内容</dt>
+			<dd>
+				<?php the_field("content", $post->ID); ?>
+			</dd>
+			<dt>求める人材像</dt>
+			<dd>
+				<?php the_field("talent", $post->ID); ?>
+			</dd>
+
+
+		</dl>
+		 </div>
+		<div class="right w48">
+		   <dl class="employment_dl">
+			<dt>勤務形態</dt>
+			<dd>
+			   <?php the_field("work", $post->ID); ?>
+			</dd>
+			<dt>社会保険</dt>
+			<dd>
+			   <?php the_field("hoken", $post->ID); ?>
+			</dd>
+			<dt>必要な資格</dt>
+			<dd>
+			   <?php the_field("certification", $post->ID); ?>
+			</dd>
+			</dl>
+		</div>
+
+
+	   </div>
+		<?php endwhile; else: ?>
+		  <p class="employment_n">現在、募集は受け付けておりません</p>
+		<?php endif; ?>
+		<?php wp_reset_query(); ?>
+	</div>
+
+<!-- ★【新卒】営業職　ここまで★ -->
+
+
+
+
+<!-- ★【新卒】総務・人事職　ここから★ -->
+   <div class="saiyou_con soumu_area">
+	<p id="soumu"></p>
+	 <div class="saiyou_title">
+	  <p>総務・人事職</p>
+	  <h4 class="saiyou">総務・人事職</h4>
+	   <div class="saiyou_icon_con">
+	    <a href="<?php bloginfo('url'); ?>/contact">
+		<i class="fas fa-envelope saiyou_icon"></i>
+	    </a>
+	   </div>
+	 </div>
+
+	    <?php $args=array( 'tax_query' => array( array(
+		'taxonomy' => 'employment_cat',
+		'field' => 'slug',
+		'terms' => array( 'new_grad_soumu' )
+			),),
+		'post_type' => 'employment',
+		'posts_per_page'=> -1
+		); ?>
+		<?php query_posts( $args ); ?>
+		<?php if(have_posts()): ?>
+		<?php while(have_posts()):the_post(); ?>
+		<p>
+		 <?php the_field("text", $post->ID); ?>
+		</p>
+	   <div class="cf">
+		<div class="left w48">
+		   <dl class="employment_dl">
+			<dt>応募条件</dt>
+			<dd>
+				<?php the_field("cond", $post->ID); ?>
+			</dd>
+			<dt>募集学部</dt>
+			<dd>
+				<?php the_field("faculty", $post->ID); ?>
+			</dd>
+			<dt>仕事の内容</dt>
+			<dd>
+				<?php the_field("content", $post->ID); ?>
+			</dd>
+			<dt>求める人材像</dt>
+			<dd>
+				<?php the_field("talent", $post->ID); ?>
+			</dd>
+
+
+		</dl>
+		 </div>
+		<div class="right w48">
+		   <dl class="employment_dl">
+			<dt>勤務形態</dt>
+			<dd>
+			   <?php the_field("work", $post->ID); ?>
+			</dd>
+			<dt>社会保険</dt>
+			<dd>
+			   <?php the_field("hoken", $post->ID); ?>
+			</dd>
+			<dt>必要な資格</dt>
+			<dd>
+			   <?php the_field("certification", $post->ID); ?>
+			</dd>
+			</dl>
+		</div>
+
+
+	   </div>
+		<?php endwhile; else: ?>
+		  <p class="employment_n">現在、募集は受け付けておりません</p>
+		<?php endif; ?>
+		<?php wp_reset_query(); ?>
+	</div>
+
+<!-- ★【新卒】総務・人事職　ここまで★ -->
+
+
+
+<!-- ★選考スケジュール　ここから★ -->
+	<p id="step"></p>
+	<div class="skd_flow_con">
+
+<!--
+	   <p class="step_p sche">選考スケジュール</p>
+	     <p class="step_text">随時受け付けております</p>
+-->
+		
+	   <p class="step_p">
+           選考スケジュール
+        
+        </p>
+        <p class="step_attention">※スケジュールは変更となる場合があります。</p>
+
+		<ol class="step_schedule">
+		  <li>～5/31</li>
+		  <li>6月上旬</li>
+		  <li>6月中旬</li>
+		  <li>7月中旬</li>
+		  <li>8月上旬</li>
+		  <li>2024/4/1</li>
+		</ol>
+
+		<ol class="step">
+		  <li>応募<i class="fas fa-clipboard-list step_icon"></i></li>
+		  <li>書類選考<i class="far fa-id-badge step_icon"></i></li>
+		 <!-- <li>筆記試験<i class="fas fa-user-edit step_icon"></i></li> -->
+		  <li>一次面接<i class="fas fa-users step_icon"></i></li>
+		  <li>二次面接<i class="fas fa-user-friends step_icon"></i></li>
+		  <li>内定<i class="fas fa-heart step_icon"></i></li>
+		  <li class="step07">入社<i class="fas fa-user-tie step_icon"></i></li>
+		</ol>
+
+
+
+
+	</div>
+
+<!-- ★選考スケジュール　ここまで★ -->
+
+
+
+
+<!-- ★問い合わせエリア　ここから★ -->
+
+	<div class="saiyou_contact_area">
+	  <div class="saiyou_contact_01">
+	    <ul>
+		<li class="saiyou_text">お電話でのお問い合わせ</li>
+		<li class="saiyou_tel_number">0985-64-1430</li>
+		<li class="saiyou_time">平日9時～17時(年末年始を除く)</li>
+	    </ul>
+	  </div>
+
+	  <div class="saiyou_contact_02">
+	    <ul>
+		<li class="saiyou_text">WEBからのお問い合わせ</li>
+		<li class="saiyou_web_text">
+		    <a href="<?php bloginfo('url'); ?>/contact">お問い合わせフォーム</a></li>
+		<li class="saiyou_time">平日9時～17時内に返信(年末年始を除く)</li>
+	    </ul>
+	  </div>
+
+
+	</div>
+
+<!-- ★問い合わせエリア　ここまで★ -->
+
+
+
+
+      </p><!-- ★新卒タブエリア　ここまで★ -->
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+<!-- ★中途採用　ここから★ -->
+
+
+  <div class="tab_content" id="employment02_content">
+    <div class="tab_content_description">
+      <p class="c-txtsp">
+
+
+<!--　★職選択　ここから★　-->
+
+<div id="employment_bg">
+		<ul class="cf">
+				<li><a href="#server02"><img src="<?php echo get_template_directory_uri(); ?>/images/btn_job01_off.png" alt="サーバ・ネットワークエンジニア職"></a></li>
+				<li><a href="#engineer02"><img src="<?php echo get_template_directory_uri(); ?>/images/btn_job02_off.png" alt="システムエンジニア・プログラマー職"></a></li>
+				<li><a href="#web02"><img src="<?php echo get_template_directory_uri(); ?>/images/btn_job03_off.png" alt="Web制作職"></a></li>
+				<li><a href="#eigyou02"><img src="<?php echo get_template_directory_uri(); ?>/images/btn_job04_off.png" alt="営業職"></a></li>
+				<li><a href="#soumu02"><img src="<?php echo get_template_directory_uri(); ?>/images/btn_job05_off.png" alt="総務・人事職"></a></li>
+		</ul>
+
+		<div class="skd_flow_title tyuuto_c">
+		   <a href="#step02">選考スケジュールはこちら</a>
+		</div>
+</div>
+<!--　★職選択　ここまで★　-->
+
+
+
+<!-- ★【中途】サーバ・ネットワークエンジニア職　ここから★ -->
+   <div class="saiyou_con">
+	<p id="server02"></p>
+	 <div class="saiyou_title">
+	  <p>サーバ・ネットワークエンジニア職</p>
+	  <h4 class="saiyou tyuuto_b">サーバ・ネットワークエンジニア</h4>
+	   <div class="saiyou_icon_con tyuuto_con_c">
+	    <a href="<?php bloginfo('url'); ?>/contact">
+		<i class="fas fa-envelope saiyou_icon"></i>
+	    </a>
+	   </div>
+	 </div>
+
+	    <?php $args=array( 'tax_query' => array( array(
+		'taxonomy' => 'employment_cat',
+		'field' => 'slug',
+		'terms' => array( 'networkengineer' )
+			),),
+		'post_type' => 'employment',
+		'posts_per_page'=> -1
+		); ?>
+		<?php query_posts( $args ); ?>
+		<?php if(have_posts()): ?>
+		<?php while(have_posts()):the_post(); ?>
+		<p>
+		 <?php the_field("text", $post->ID); ?>
+		</p>
+	   <div class="cf">
+		<div class="left w48">
+		   <dl class="employment_dl">
+			<dt>職種</dt>
+			<dd>
+				<?php the_field("job", $post->ID); ?>
+			</dd>
+			<dt>仕事の内容</dt>
+			<dd>
+				<?php the_field("content", $post->ID); ?>
+			</dd>
+			<dt>必要な経験等</dt>
+			<dd>
+				<?php the_field("experience", $post->ID); ?>
+			</dd>
+
+		</dl>
+		 </div>
+		<div class="right w48">
+		   <dl class="employment_dl">
+			<dt>目安年齢</dt>
+			<dd>
+			   <?php the_field("age", $post->ID); ?>
+			</dd>
+			<dt>勤務形態</dt>
+			<dd>
+			   <?php the_field("work", $post->ID); ?>
+			</dd>
+			<dt>社会保険</dt>
+			<dd>
+			   <?php the_field("hoken", $post->ID); ?>
+			</dd>
+
+			<dt>必要な資格</dt>
+			<dd>
+			   <?php the_field("certification", $post->ID); ?>
+			</dd>
+			</dl>
+		</div>
+
+
+	   </div>
+		<?php endwhile; else: ?>
+		  <p class="mb20">現在スタッフを募集しています。<br />
+		   詳細につきましては、弊社人事担当宛にお問い合わせ下さい。
+		  	</p>
+		<?php endif; ?>
+		<?php wp_reset_query(); ?>
+	</div>
+
+<!-- ★サーバ・ネットワークエンジニア職　ここまで★ -->
+
+
+
+
+
+<!-- ★【中途】システムエンジニア・プログラマー職　ここから★ -->
+   <div class="saiyou_con">
+	<p id="engineer02"></p>
+	 <div class="saiyou_title">
+	  <p>システムエンジニア・プログラマー職</p>
+	  <h4 class="saiyou tyuuto_b">システムプランナー・システムエンジニア・プログラマー</h4>
+	   <div class="saiyou_icon_con tyuuto_con_c">
+	    <a href="<?php bloginfo('url'); ?>/contact">
+		<i class="fas fa-envelope saiyou_icon"></i>
+	    </a>
+	   </div>
+	 </div>
+
+	    <?php $args=array( 'tax_query' => array( array(
+		'taxonomy' => 'employment_cat',
+		'field' => 'slug',
+		'terms' => array( 'programmer' )
+			),),
+		'post_type' => 'employment',
+		'posts_per_page'=> -1
+		); ?>
+		<?php query_posts( $args ); ?>
+		<?php if(have_posts()): ?>
+		<?php while(have_posts()):the_post(); ?>
+		<p>
+		 <?php the_field("text", $post->ID); ?>
+		</p>
+	   <div class="cf">
+		<div class="left w48">
+		   <dl class="employment_dl">
+			<dt>職種</dt>
+			<dd>
+				<?php the_field("job", $post->ID); ?>
+			</dd>
+			<dt>仕事の内容</dt>
+			<dd>
+				<?php the_field("content", $post->ID); ?>
+			</dd>
+			<dt>必要な経験等</dt>
+			<dd>
+				<?php the_field("experience", $post->ID); ?>
+			</dd>
+
+		</dl>
+		 </div>
+		<div class="right w48">
+		   <dl class="employment_dl">
+			<dt>目安年齢</dt>
+			<dd>
+			   <?php the_field("age", $post->ID); ?>
+			</dd>
+			<dt>勤務形態</dt>
+			<dd>
+			   <?php the_field("work", $post->ID); ?>
+			</dd>
+			<dt>社会保険</dt>
+			<dd>
+			   <?php the_field("hoken", $post->ID); ?>
+			</dd>
+			<dt>必要な資格</dt>
+			<dd>
+			   <?php the_field("certification", $post->ID); ?>
+			</dd>
+			</dl>
+		</div>
+
+
+	   </div>
+		<?php endwhile; else: ?>
+		  <p class="mb20">現在スタッフを募集しています。<br />
+		   詳細につきましては、弊社人事担当宛にお問い合わせ下さい。
+		  	</p>
+		<?php endif; ?>
+		<?php wp_reset_query(); ?>
+	</div>
+
+<!-- ★【中途】システムエンジニア・プログラマー職　ここまで★ -->
+
+
+
+<!-- ★【中途】Web制作職　ここから★ -->
+   <div class="saiyou_con">
+	<p id="web02"></p>
+	 <div class="saiyou_title">
+	  <p>Web制作職</p>
+	  <h4 class="saiyou tyuuto_b">Webデザイナー</h4>
+	   <div class="saiyou_icon_con tyuuto_con_c">
+	    <a href="<?php bloginfo('url'); ?>/contact">
+		<i class="fas fa-envelope saiyou_icon"></i>
+	    </a>
+	   </div>
+	 </div>
+
+	    <?php $args=array( 'tax_query' => array( array(
+		'taxonomy' => 'employment_cat',
+		'field' => 'slug',
+		'terms' => array( 'web' )
+			),),
+		'post_type' => 'employment',
+		'posts_per_page'=> -1
+		); ?>
+		<?php query_posts( $args ); ?>
+		<?php if(have_posts()): ?>
+		<?php while(have_posts()):the_post(); ?>
+		<p>
+		 <?php the_field("text", $post->ID); ?>
+		</p>
+	   <div class="cf">
+		<div class="left w48">
+		   <dl class="employment_dl">
+			<dt>職種</dt>
+			<dd>
+				<?php the_field("job", $post->ID); ?>
+			</dd>
+			<dt>仕事の内容</dt>
+			<dd>
+				<?php the_field("content", $post->ID); ?>
+			</dd>
+			<dt>必要な経験等</dt>
+			<dd>
+				<?php the_field("experience", $post->ID); ?>
+			</dd>
+
+		</dl>
+		 </div>
+		<div class="right w48">
+		   <dl class="employment_dl">
+			<dt>目安年齢</dt>
+			<dd>
+			   <?php the_field("age", $post->ID); ?>
+			</dd>
+			<dt>勤務形態</dt>
+			<dd>
+			   <?php the_field("work", $post->ID); ?>
+			</dd>
+			<dt>社会保険</dt>
+			<dd>
+			   <?php the_field("hoken", $post->ID); ?>
+			</dd>
+			<dt>必要な資格</dt>
+			<dd>
+			   <?php the_field("certification", $post->ID); ?>
+			</dd>
+
+			</dl>
+		</div>
+
+
+	   </div>
+		<?php endwhile; else: ?>
+		  <p class="mb20">現在スタッフを募集しています。<br />
+		  詳細につきましては、弊社人事担当宛にお問い合わせ下さい。
+		<?php endif; ?>
+		<?php wp_reset_query(); ?>
+	</div>
+
+<!-- ★【中途】Web制作職　ここまで★ -->
+
+
+
+<!-- ★【中途】営業職　ここから★ -->
+   <div class="saiyou_con">
+	<p id="eigyou02"></p>
+	 <div class="saiyou_title">
+	  <p>営業職</p>
+	  <h4 class="saiyou tyuuto_b">システム営業</h4>
+	   <div class="saiyou_icon_con tyuuto_con_c">
+	    <a href="<?php bloginfo('url'); ?>/contact">
+		<i class="fas fa-envelope saiyou_icon"></i>
+	    </a>
+	   </div>
+	 </div>
+
+	    <?php $args=array( 'tax_query' => array( array(
+		'taxonomy' => 'employment_cat',
+		'field' => 'slug',
+		'terms' => array( 'eigyo' )
+			),),
+		'post_type' => 'employment',
+		'posts_per_page'=> -1
+		); ?>
+		<?php query_posts( $args ); ?>
+		<?php if(have_posts()): ?>
+		<?php while(have_posts()):the_post(); ?>
+		<p>
+		 <?php the_field("text", $post->ID); ?>
+		</p>
+	   <div class="cf">
+		<div class="left w48">
+		   <dl class="employment_dl">
+			<dt>職種</dt>
+			<dd>
+				<?php the_field("job", $post->ID); ?>
+			</dd>
+			<dt>仕事の内容</dt>
+			<dd>
+				<?php the_field("content", $post->ID); ?>
+			</dd>
+			<dt>必要な経験等</dt>
+			<dd>
+				<?php the_field("experience", $post->ID); ?>
+			</dd>
+
+		</dl>
+		 </div>
+		<div class="right w48">
+		   <dl class="employment_dl">
+			<dt>目安年齢</dt>
+			<dd>
+			   <?php the_field("age", $post->ID); ?>
+			</dd>
+			<dt>勤務形態</dt>
+			<dd>
+			   <?php the_field("work", $post->ID); ?>
+			</dd>
+			<dt>社会保険</dt>
+			<dd>
+			   <?php the_field("hoken", $post->ID); ?>
+			</dd>
+			<dt>必要な資格</dt>
+			<dd>
+			   <?php the_field("certification", $post->ID); ?>
+			</dd>
+
+			</dl>
+		</div>
+
+
+	   </div>
+		<?php endwhile; else: ?>
+		  <p class="mb20">現在スタッフを募集しています。<br />
+		  詳細につきましては、弊社人事担当宛にお問い合わせ下さい。
+		  	</p>
+		<?php endif; ?>
+		<?php wp_reset_query(); ?>
+	</div>
+
+<!-- ★【中途】営業職　ここまで★ -->
+
+
+
+
+<!-- ★【中途】総務・人事職　ここから★ -->
+   <div class="saiyou_con">
+	<p id="soumu02"></p>
+	 <div class="saiyou_title">
+	  <p>総務・人事職</p>
+	  <h4 class="saiyou tyuuto_b">総務・人事職</h4>
+	   <div class="saiyou_icon_con tyuuto_con_c">
+	    <a href="<?php bloginfo('url'); ?>/contact">
+		<i class="fas fa-envelope saiyou_icon"></i>
+	    </a>
+	   </div>
+	 </div>
+
+	    <?php $args=array( 'tax_query' => array( array(
+		'taxonomy' => 'employment_cat',
+		'field' => 'slug',
+		'terms' => array( 'soumu' )
+			),),
+		'post_type' => 'employment',
+		'posts_per_page'=> -1
+		); ?>
+		<?php query_posts( $args ); ?>
+		<?php if(have_posts()): ?>
+		<?php while(have_posts()):the_post(); ?>
+		<p>
+		 <?php the_field("text", $post->ID); ?>
+		</p>
+	   <div class="cf">
+		<div class="left w48">
+		   <dl class="employment_dl">
+			<dt>職種</dt>
+			<dd>
+				<?php the_field("job", $post->ID); ?>
+			</dd>
+			<dt>仕事の内容</dt>
+			<dd>
+				<?php the_field("content", $post->ID); ?>
+			</dd>
+			<dt>必要な経験等</dt>
+			<dd>
+				<?php the_field("experience", $post->ID); ?>
+			</dd>
+
+		</dl>
+		 </div>
+		<div class="right w48">
+		   <dl class="employment_dl">
+			<dt>目安年齢</dt>
+			<dd>
+			   <?php the_field("age", $post->ID); ?>
+			</dd>
+			<dt>勤務形態</dt>
+			<dd>
+			   <?php the_field("work", $post->ID); ?>
+			</dd>
+			<dt>社会保険</dt>
+			<dd>
+			   <?php the_field("hoken", $post->ID); ?>
+			</dd>
+			<dt>必要な資格</dt>
+			<dd>
+			   <?php the_field("certification", $post->ID); ?>
+			</dd>
+
+			</dl>
+		</div>
+
+
+	   </div>
+		<?php endwhile; else: ?>
+		  <p class="mb20">現在、募集は受け付けておりません</p>
+		<?php endif; ?>
+		<?php wp_reset_query(); ?>
+	</div>
+
+<!-- ★【中途】総務・人事職　ここまで★ -->
+
+
+
+<!-- ★選考スケジュール　ここから★ -->
+
+	<div class="skd_flow_con">
+	<p id="step02"></p>
+
+	   <p class="step_p  tyuuto_b sche">選考スケジュール</p>
+	     <p class="step_text">随時受け付けております</p>
+
+
+	   <p class="step_p tyuuto_b">選考フロー</p>
+
+		<ol class="step tyuuto_con_c">
+		  <li>応募<i class="fas fa-clipboard-list step_icon"></i></li>
+		  <li>書類選考<i class="far fa-id-badge step_icon"></i></li>
+		 <!-- <li>筆記試験<i class="fas fa-user-edit step_icon"></i></li> -->
+		  <li>一次面接<i class="fas fa-users step_icon"></i></li>
+		  <li>二次面接<i class="fas fa-user-friends step_icon"></i></li>
+		  <li>内定<i class="fas fa-heart step_icon"></i></li>
+		  <li class="step07">入社<i class="fas fa-user-tie step_icon"></i></li>
+		</ol>
+
+	</div>
+
+<!-- ★選考スケジュール　ここまで★ -->
+
+
+
+<!-- ★問い合わせエリア　ここから★ -->
+
+	<div class="saiyou_contact_area">
+	  <div class="saiyou_contact_01">
+	    <ul>
+		<li class="saiyou_text">お電話でのお問い合わせ</li>
+		<li class="saiyou_tel_number">0985-64-1430</li>
+		<li class="saiyou_time">平日9時～17時(年末年始を除く)</li>
+	    </ul>
+	  </div>
+
+	  <div class="saiyou_contact_02">
+	    <ul>
+		<li class="saiyou_text">WEBからのお問い合わせ</li>
+		<li class="saiyou_web_text">
+		    <a href="<?php bloginfo('url'); ?>/contact">お問い合わせフォーム</a></li>
+		<li class="saiyou_time">平日9時～17時内に返信(年末年始を除く)</li>
+	    </ul>
+	  </div>
+
+
+	</div>
+
+<!-- ★問い合わせエリア　ここまで★ -->
+
+
+
+
+      </p>
+    </div>
+  </div>
+<!-- ★中途採用　ここまで★ -->
+
+
+
+
+</div><!-- ★全体ＤＩＶ終わり★ -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+<!-- conent　▲▲-->
+<?php get_footer(); ?>
