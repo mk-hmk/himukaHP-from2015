@@ -55,6 +55,7 @@ a {
 .wrap a, .wrap_w a, .wrap_g a {
 	text-decoration: underline;
 	color: #0C3773;
+	font-size: 1em;
 }
 .wrap a:hover, .wrap_w a:hover, .wrap_g a:hover {
 	text-decoration: none;
@@ -643,7 +644,7 @@ h2 p {
 	color: #0f3774;
 	letter-spacing: 2px;
 	text-align: center;
-	font-size: 24px;
+	font-size: 3em;/*24px*/
 	font-weight: bold;
 }
 h2#type01 {
@@ -2122,7 +2123,7 @@ news
 }
 .single_wrap p{
 	margin-bottom:1em !important;
-	font-size: 14px!important;/*added 2020/01/08 knd*/
+	font-size: 1.1em;/*added 2020/01/08 14px!important knd*/
 }
 .single_wrap #date{
 	color: #5c5c5c;
@@ -2130,15 +2131,24 @@ news
 	margin:10px 0;
 	text-align:right;
 }
+h2#type04 p {
+	font-size: 2em;
+}
 .single_wrap #pback{/*added 2015/07/08 matsu*/
 	margin:30px 0;
 	text-align:right;
 }
 .single_wrap #pback a{/*added 2015/07/08 matsu*/
 	text-decoration: underline;
+	font-size: 1em;
 }
 .single_wrap #pback a:hover{/*added 2015/07/08 matsu*/
 	text-decoration: none;
+}
+.single_wrap time {
+	font-size: 1.1em;
+	display: inline-block;
+  margin: 5% 0;
 }
 /*  --- --- --- --- --- --- --- ---
 お問い合わせ
@@ -4276,12 +4286,12 @@ span.contact_tel {
 	.newscotent {
 		float: none;
 		width: 90%;
-		margin: 30px auto;
+		margin: 30px 55px;/*30px auto*/
 	}
 	.newscotent dl dt {
 		width: 90%;
 	}
-	.newscotent .project, .newscotent .employ, .newscotent .activities, .newscotent .security, .newscotent .other, .newscotent .impediment {
+	.newscotent .project, .newscotent .employ, .newscotent .activities, .newscotent .security, .newscotent .other, .newscotent .impediment, .newscotent .maintenance {
 		font-size: 3em;
 	}
 	/*.wrap_w .cf {
@@ -4325,6 +4335,13 @@ span.contact_tel {
 	}
 	.newscotent .impediment {
 		background: url(../images/icon_impediment.png) no-repeat 6em;
+    background-size: 25%;
+    height: 1.5em;
+    font-weight: bold;
+    margin-bottom: 5px;
+	}
+	.newscotent .maintenance {
+		background: url(../images/icon_maintenance.png) no-repeat 6em;
     background-size: 25%;
     height: 1.5em;
     font-weight: bold;
@@ -4700,7 +4717,19 @@ span.contact_tel {
     width: 20em;
 	}
     
-    
+	.single_wrap #pback a{/*added 2015/07/08 matsu*/
+		text-decoration: underline;
+		font-size: 1em;
+	}
+	.single_wrap time {
+		font-size: 2.45em;
+	}
+	.single_wrap p{
+		font-size: 2.45em;
+	}
+  h2#type04 p {
+    font-size: 3em;
+	}
     
     
     
@@ -4714,6 +4743,7 @@ span.contact_tel {
     .wrap_w .cf {
         display: flex;
         flex-wrap: wrap;
+				padding-bottom: 5%;
     }
     div#infomation_title p.alc img {
         width: 45rem;
