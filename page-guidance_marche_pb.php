@@ -46,7 +46,7 @@ $(function(){
 		<div class="select_01">
 			<div class="pc_menu">
 				<ul>
-					<li><a href="<?php bloginfo('url'); ?>/guidance_marche/">ひなたマルシェとは？<p>HINATA Marché</p></a><span class="circle"></span></li>
+					<li><a href="<?php bloginfo('url'); ?>/guidance_marche/">ひなたこねくととは？<p>HINATA Marché</p></a><span class="circle"></span></li>
 					<li><a href="<?php bloginfo('url'); ?>/guidance_marche/#Producer">生産者様<p>Producer</p></a><span class="circle"></span></li>
 					<li><a href="<?php bloginfo('url'); ?>/guidance_marche/#Retailing">小売店様<p>Retailing</p></a><span class="circle"></span></li>
 					<li><a href="<?php bloginfo('url'); ?>/guidance_marche_pb/">PB<p>Private Brand</p></a><span class="circle"></span></li>
@@ -56,7 +56,7 @@ $(function(){
 			</div>
 			<div class="Mobile_menu">
 				<ul>
-					<li class="Mobile_menu01"><a href="<?php echo get_template_directory_uri(); ?>/guidance_marche/">ひなたマルシェとは？<p>HINATA Marché</p></a><span class="circle"></span></li>
+					<li class="Mobile_menu01"><a href="<?php echo get_template_directory_uri(); ?>/guidance_marche/">ひなたこねくととは？<p>HINATA Marché</p></a><span class="circle"></span></li>
 					<li><a href="<?php bloginfo('url'); ?>/guidance_marche/#Producer">生産者様<p>Producer</p></a></li>
 					<li><a href="<?php bloginfo('url'); ?>/guidance_marche/#Retailing">小売店様<p>Retailing</p></a></li>
 					<li><a href="<?php bloginfo('url'); ?>/guidance_marche_pb/">PB<p>Private Brand</p></a></li>
@@ -309,7 +309,7 @@ $(function(){
 					<div class="contact_flex02_div">
 						<span class="mb_su_br">メールでのお問い合わせ</span>
 						<a href="" class="mail_area">メールでお問い合わせ</a>
-						<p>お問い合わせ区分「ひなたマルシェについて」にチェックをいれていただくと<br>直接弊社担当者よりご連絡いたします。</p>
+						<p>お問い合わせ区分「ひなたこねくとについて」にチェックをいれていただくと<br>直接弊社担当者よりご連絡いたします。</p>
 					</div>
 					<div>
 						<span class="mb_su_br">お電話でのお問い合わせ</span>

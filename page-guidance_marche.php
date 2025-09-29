@@ -49,7 +49,7 @@ $(function(){
 		<div class="select_01">
 			<div class="pc_menu">
 				<ul>
-					<li><a href="#hinata">ひなたマルシェとは？<p>HINATA Marché</p></a><span class="circle"></span></li>
+					<li><a href="#hinata">ひなたこねくととは？<p>HINATA Marché</p></a><span class="circle"></span></li>
 					<li><a href="#Producer">生産者様<p>Producer</p></a><span class="circle"></span></li>
 					<li><a href="#Retailing">小売店様<p>Retailing</p></a><span class="circle"></span></li>
 					<li><a href="<?php bloginfo('url'); ?>/guidance_marche_pb/">PB<p>Private Brand</p></a><span class="circle"></span></li>
@@ -59,7 +59,7 @@ $(function(){
 			</div>
 			<div class="Mobile_menu">
 				<ul>
-					<li class="Mobile_menu01"><a href="#hinata">ひなたマルシェとは？<p>HINATA Marché</p></a><span class="circle"></span></li>
+					<li class="Mobile_menu01"><a href="#hinata">ひなたこねくととは？<p>HINATA Marché</p></a><span class="circle"></span></li>
 					<li><a href="#Producer">生産者様<p>Producer</p></a></li>
 					<li><a href="#Retailing">小売店様<p>Retailing</p></a></li>
 					<li><a href="<?php bloginfo('url'); ?>/guidance_marche_pb/">PB<p>Private Brand</p></a></li>
@@ -73,7 +73,7 @@ $(function(){
 				<img src="<?php echo get_template_directory_uri(); ?>/images/main_img.jpg" alt="" class="fadein fadein-right">
 				<div class="hinata_text fadein fadein-left">
 					<p class="hinata_title" id="hinata">みやざきの美味しいを<span>届けます。</span></p>
-					<p>はじめまして、ひなたマルシェと申します。
+					<p>はじめまして、ひなたこねくとと申します。
 
 						私たちは、生産者様、小売店様とお客様を繋ぐ、
 						宮崎県産品特化型卸売事業です。
@@ -209,7 +209,7 @@ $(function(){
 				<h2 class="pc_su_br"><img src="<?php echo get_template_directory_uri(); ?>/images/support_no_04.png"></h2>
 				<h2 class="mb_su_br mb_su_h2"><img src="<?php echo get_template_directory_uri(); ?>/images/mb_support_no04.png"></h2>
 				<h3 class="left_h3_04">事務作業効率化</h3>
-				<p class="main_text">取引先が多くなると煩雑になりがちな受発注や支払請求をひなたマルシェに集約することで事務作業の効率化に繋がります。</p>
+				<p class="main_text">取引先が多くなると煩雑になりがちな受発注や支払請求をひなたこねくとに集約することで事務作業の効率化に繋がります。</p>
 			</div>
 		</div>
 		
@@ -306,7 +306,7 @@ $(function(){
 					<div class="contact_flex02_div">
 						<span class="mb_su_br">メールでのお問い合わせ</span>
 						<a href="" class="mail_area">メールでお問い合わせ</a>
-						<p>お問い合わせ区分「ひなたマルシェについて」にチェックをいれていただくと<br>直接弊社担当者よりご連絡いたします。</p>
+						<p>お問い合わせ区分「ひなたこねくとについて」にチェックをいれていただくと<br>直接弊社担当者よりご連絡いたします。</p>
 					</div>
 					<div>
 						<span class="mb_su_br">お電話でのお問い合わせ</span>
@@ -336,13 +336,13 @@ $(function(){
 	
 	<div class="container cf">
 		<h2 id="type03">
-			<p><img src="<?php echo get_template_directory_uri(); ?>/images/marchais_icon.png" alt="" id="producer">みやざきマルシェ</p>
+			<p><img src="<?php echo get_template_directory_uri(); ?>/images/marchais_icon.png" alt="" id="producer">みやざきこねくと</p>
 		</h2>
 		<p class="alc">宮崎県産品の取り扱いを始めて、“美味しいものは沢山あるけれど、手にとって食べてみなければ誰も知らない”ということを目の当たりにし、<br />
-		なんとか宮崎県の良いものをより多くの人へお届けできるか試行錯誤し<strong>【みやざきマルシェ】</strong>という名前でプロジェクトを立ち上げました。</p>
+		なんとか宮崎県の良いものをより多くの人へお届けできるか試行錯誤し<strong>【みやざきこねくと】</strong>という名前でプロジェクトを立ち上げました。</p>
 		<p class="alc">スーパーの購買層である20代から60代の女性に向けて、数ある県産品の中から女性の目線で選び、女性の目線でレシピなどを交えて商品をアピールします。</p>
 		<p class="alc">さらに、多くの方に宮崎の美味しい県産品を知って頂けるように、Facebookやブログなどのツールも利用し、情報発信を行います。</p>
-		<p class="alc">みやざきマルシェでは、各小売店様や生産者様に合わせ、卸販売・委託販売・ネットショップの3形態をご提案致します。</p>
+		<p class="alc">みやざきこねくとでは、各小売店様や生産者様に合わせ、卸販売・委託販売・ネットショップの3形態をご提案致します。</p>
 		<ul id="marchaisbtn" class="mt20 cf">
 			<li><a href="#01"><img src="<?php echo get_template_directory_uri(); ?>/images/marchais_btn01.png" alt="卸販売" /></a></li>
 			<li><a href="#02"><img src="<?php echo get_template_directory_uri(); ?>/images/marchais_btn02.png" alt="委託販売" /></a></li>
@@ -366,7 +366,7 @@ $(function(){
 			<dt>2012年7月</dt>
 			<dd>新規取引先として大分・福岡県内のスーパー3店舗へ県産品販売の委託事業を開始。</dd>
 			<dt>2013年7月</dt>
-			<dd>既存事業を拡大し「みやざきマルシェ」を開始。</dd>
+			<dd>既存事業を拡大し「みやざきこねくと」を開始。</dd>
 		</dl>
 	</div>
 </div>
@@ -406,7 +406,7 @@ $(function(){
 	<div class="container cf" id="02">
 		<h4 id="type01">委託販売</h4>
 		<p class="alc mt20">委託販売とは、小売店様店内に<strong>【宮崎県産品棚】</strong>を設置、または棚をお借りして商品を置き、売上に準じてお支払いすることです。</p>
-		<p class="alc">みやざきマルシェでは、小売店様・生産者様の負担にならないよう、<strong>【小ロット納品】</strong>に対応しております(委託のみ)</p>
+		<p class="alc">みやざきこねくとでは、小売店様・生産者様の負担にならないよう、<strong>【小ロット納品】</strong>に対応しております(委託のみ)</p>
 		<p class="alc mt20 mb20"><img src="<?php echo get_template_directory_uri(); ?>/images/ｍarche_img03.png" alt=""></p>
 		<div class="cf merit">
 			<div class="left w48 cf">
