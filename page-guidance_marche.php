@@ -53,7 +53,7 @@ $(function(){
 	
 	<!--　ここからスタート　-->
 	<div class="hinata_container">
-		<img src="<?php echo get_template_directory_uri(); ?>/images/hinata_marche_02.png" alt="" id="hinata_logo">
+		<img src="<?php echo get_template_directory_uri(); ?>/images/hinata_connect_02.png" alt="" id="hinata_logo">
 		
 		<div class="select_01">
 			<div class="pc_menu">
