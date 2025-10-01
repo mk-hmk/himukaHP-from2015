@@ -49,7 +49,7 @@ $(function(){
 		<div class="select_01">
 			<div class="pc_menu">
 				<ul>
-					<li><a href="#hinata">ひなたこねくととは？<p>HINATA Marché</p></a><span class="circle"></span></li>
+					<li><a href="#hinata">ひなたこねくととは？<p>HINATA Connect</p></a><span class="circle"></span></li>
 					<li><a href="#Producer">生産者様<p>Producer</p></a><span class="circle"></span></li>
 					<li><a href="#Retailing">小売店様<p>Retailing</p></a><span class="circle"></span></li>
 					<li><a href="<?php bloginfo('url'); ?>/guidance_marche_pb/">PB<p>Private Brand</p></a><span class="circle"></span></li>
@@ -73,7 +73,7 @@ $(function(){
 				<img src="<?php echo get_template_directory_uri(); ?>/images/main_img.jpg" alt="" class="fadein fadein-right">
 				<div class="hinata_text fadein fadein-left">
 					<p class="hinata_title" id="hinata">みやざきの美味しいを<span>届けます。</span></p>
-					<p>はじめまして、ひなたこねくとと申します。
+					<p>はじめまして、「ひなたこねくと」と申します。
 
 						私たちは、生産者様、小売店様とお客様を繋ぐ、
 						宮崎県産品特化型卸売事業です。

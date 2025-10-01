@@ -46,7 +46,7 @@ $(function(){
 		<div class="select_01">
 			<div class="pc_menu">
 				<ul>
-					<li><a href="<?php bloginfo('url'); ?>/guidance_marche/">ひなたこねくととは？<p>HINATA Marché</p></a><span class="circle"></span></li>
+					<li><a href="<?php bloginfo('url'); ?>/guidance_marche/">ひなたこねくととは？<p>HINATA Connect</p></a><span class="circle"></span></li>
 					<li><a href="<?php bloginfo('url'); ?>/guidance_marche/#Producer">生産者様<p>Producer</p></a><span class="circle"></span></li>
 					<li><a href="<?php bloginfo('url'); ?>/guidance_marche/#Retailing">小売店様<p>Retailing</p></a><span class="circle"></span></li>
 					<li><a href="<?php bloginfo('url'); ?>/guidance_marche_pb/">PB<p>Private Brand</p></a><span class="circle"></span></li>
