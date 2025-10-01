@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 
 
-<!-- ひなたマルシェページのみ、IT導入補助金の帯を非表示  -->
+<!-- ひなたこねくとページのみ、IT導入補助金の帯を非表示  -->
 <style type="text/css">
 .h_news {
 	display: none;
@@ -58,7 +58,7 @@ $(function(){
 		<div class="select_01">
 			<div class="pc_menu">
 				<ul>
-					<li><a href="#hinata">ひなたマルシェとは？<p>HINATA Marché</p></a><span class="circle"></span></li>
+					<li><a href="#hinata">ひなたこねくととは？<p>HINATA Connect</p></a><span class="circle"></span></li>
 					<li><a href="#Producer">生産者様<p>Producer</p></a><span class="circle"></span></li>
 					<li><a href="#Retailing">小売店様<p>Retailing</p></a><span class="circle"></span></li>
 					<li><a href="#Follow">公式SNS<p>Follow me</p></a><span class="circle"></span></li>
@@ -68,7 +68,7 @@ $(function(){
 			</div>
 			<div class="Mobile_menu">
 				<ul>
-					<li class="Mobile_menu01"><a href="#hinata">ひなたマルシェとは？<p>HINATA Marché</p></a><span class="circle"></span></li>
+					<li class="Mobile_menu01"><a href="#hinata">ひなたこねくととは？<p>HINATA Connect</p></a><span class="circle"></span></li>
 					<li><a href="#Producer">生産者様<p>Producer</p></a></li>
 					<li><a href="#Retailing">小売店様<p>Retailing</p></a></li>
 					<li><a href="#Follow">公式SNS<p>Follow me</p></a></li>
@@ -81,7 +81,7 @@ $(function(){
 				<img src="<?php echo get_template_directory_uri(); ?>/images/main_img.jpg" alt="" class="fadein fadein-right">
 				<div class="hinata_text fadein fadein-left">
 					<p class="hinata_title" id="hinata">みやざきの美味しいを<span>届けます。</span></p>
-					<p>はじめまして、ひなたマルシェと申します。
+					<p>はじめまして、「ひなたこねくと」と申します。
 
 						私たちは、生産者様、小売店様とお客様を繋ぐ、
 						宮崎県産品特化型卸売事業です。
@@ -217,7 +217,7 @@ $(function(){
 				<h2 class="pc_su_br"><img src="<?php echo get_template_directory_uri(); ?>/images/support_no_04.png"></h2>
 				<h2 class="mb_su_br mb_su_h2"><img src="<?php echo get_template_directory_uri(); ?>/images/mb_support_no04.png"></h2>
 				<h3 class="left_h3_04">事務作業効率化</h3>
-				<p class="main_text">取引先が多くなると煩雑になりがちな受発注や支払請求をひなたマルシェに集約することで事務作業の効率化に繋がります。</p>
+				<p class="main_text">取引先が多くなると煩雑になりがちな受発注や支払請求をひなたこねくとに集約することで事務作業の効率化に繋がります。</p>
 			</div>
 		</div>
 		
@@ -290,7 +290,7 @@ $(function(){
 		<div class="pro_re_area sns_area  fadein fadein-up">
 			<h1 id="Follow">公式SNS<span>Follow me</span></h1>
 			<div class="sns_con">
-				<a href="https://www.instagram.com/hinata.marche.miyazaki?igsh=ZmV6bW5kcDJkNHcw" class="" target="_blank">
+				<a href="https://www.instagram.com/hinata.connect.miyazaki/?igsh=MXcwcTl3ZjNqdWM0#" class="" target="_blank">
 				<img src="<?php echo get_template_directory_uri(); ?>/images/inst_img.png" class=" pc_su_br">
 				<img src="<?php echo get_template_directory_uri(); ?>/images/mb_inst_img.png" class=" mb_su_br">
 				</a>
@@ -316,7 +316,7 @@ $(function(){
 					<div class="contact_flex02_div">
 						<span class="mb_su_br">メールでのお問い合わせ</span>
 						<a href="<?php bloginfo('url'); ?>/contact" class="mail_area" target="_blank">メールでお問い合わせ</a>
-						<p>お問い合わせ区分「ひなたマルシェについて」にチェックをいれていただくと、直接弊社担当者よりご連絡いたします。</p>
+						<p>お問い合わせ区分「ひなたこねくとについて」にチェックをいれていただくと、直接弊社担当者よりご連絡いたします。</p>
 					</div>
 					<div>
 						<span class="mb_su_br">お電話でのお問い合わせ</span>
