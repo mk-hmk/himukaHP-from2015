@@ -115,10 +115,10 @@
 		</div>
 		<p class="alc mt30"><img src="<?php echo get_template_directory_uri(); ?>/images/producer_img2.png"></p>
 		<div id="producer_marche">
-			<p id="title" class="alc mb10">みやざきマルシェ</p>
+			<p id="title" class="alc mb10">みやざきこねくと</p>
 			<div class="leftCol">
 				<p class="mb10">宮崎県の良いものをより多くの人へお届けできるか試行錯誤し<br />
-				【みやざきマルシェ】という名前でプロジェクトを立ち上げました。<br />
+				【みやざきこねくと】という名前でプロジェクトを立ち上げました。<br />
 				数ある県産品の中から女性の目線で選んだ商品をアピールします。</p>
 				<p class="btn alc"><a href="<?php bloginfo('url'); ?>/guidance_marche"><img src="<?php echo get_template_directory_uri(); ?>/images/producer_btn2_off.png"></a></p>
 			</div>
